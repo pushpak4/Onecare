@@ -1,8 +1,8 @@
 OneCare
 
-![MasterHead](https://github.com/more-aishwarya/OneCare/blob/main/assets/ProjectBanner.png)
+![MasterHead](https://github.com/pushpak4/Onecare/blob/main/assets/ProjectBanner.png)
 
-[View Project Description as PDF](https://github.com/pushpak4/Onecare/blob/main/ProjectDocuments/Project%20Description%20-%20OneCare.pdf) |
+[View Project Description as PDF](https://github.com/pushpak4/Onecare/blob/main/ProjectDocuments/Project%20Description%20-%20OneCare.pdf)
 
 
 File Structure
